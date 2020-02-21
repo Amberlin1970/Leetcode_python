@@ -24,3 +24,6 @@ Step 2) 5 is odd; subtract 1 and obtain 4.
 Step 3) 4 is even; divide by 2 and obtain 2. 
 Step 4) 2 is even; divide by 2 and obtain 1. 
 Step 5) 1 is odd; subtract 1 and obtain 0.
+
+Constraints:
+0 <= num <= 10^6
