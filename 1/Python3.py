@@ -12,4 +12,5 @@ class Solution:
                 else:continue                   
             else:
                 continue
-自己感觉的考点：列表
+# 自己感觉的考点：列表
+#运行的时间贼长了：792ms……
